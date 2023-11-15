@@ -1,0 +1,12 @@
+<svg width="40" height="40" viewBox="0 0 40 40" fill="none" xmlns="http://www.w3.org/2000/svg" data-seed-icon="true" data-seed-icon-version="0.3.4">
+  <g>
+    <g>
+      <path d="M21.5 8.5C21.5 9.32617 20.8291 10 20 10C19.1709 10 18.5 9.32617 18.5 8.5C18.5 7.6709 19.1709 7 20 7C20.8291 7 21.5 7.6709 21.5 8.5Z" fill="currentColor"/>
+      <path d="M29 18C28.3988 14.7121 26.2297 12.442 21.2305 12H18.7695C13.7703 12.442 11.6012 14.7121 11 18H29Z" fill="currentColor"/>
+      <path d="M13.6578 33L11 21H14.266L15.5246 33H13.6578Z" fill="currentColor"/>
+      <path d="M26.3421 33H24.4788L25.9132 21H28.9999L26.3421 33Z" fill="currentColor"/>
+      <path d="M20.893 21V33H22.6755L24.1098 21H20.893Z" fill="currentColor"/>
+      <path d="M17.3211 33L16.066 21H19.107V33H17.3211Z" fill="currentColor"/>
+    </g>
+  </g>
+</svg>

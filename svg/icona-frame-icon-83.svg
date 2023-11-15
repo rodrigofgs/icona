@@ -1,0 +1,15 @@
+<svg width="40" height="40" viewBox="0 0 40 40" fill="none" xmlns="http://www.w3.org/2000/svg" data-seed-icon="true" data-seed-icon-version="0.3.4">
+  <g>
+    <g>
+      <path d="M22.158 9H24.837V5H22.158V9Z" fill="currentColor"/>
+      <path d="M18.2823 6.32422C16.8012 6.32422 15.6033 7.52214 15.6033 9H20.9581C20.9581 7.52214 19.7602 6.32422 18.2823 6.32422Z" fill="currentColor"/>
+      <path d="M28.7126 6.32422C27.2348 6.32422 26.0369 7.52214 26.0369 9H31.3917C31.3917 7.52214 30.1938 6.32422 28.7126 6.32422Z" fill="currentColor"/>
+      <path d="M4.29395 9.00016C4.29395 7.77295 5.28678 6.77686 6.51725 6.77686C7.74447 6.77686 8.7373 7.77295 8.7373 9.00016H4.29395Z" fill="currentColor"/>
+      <path d="M10.8292 8.99984L9.93726 5.43213H13.5115L14.4034 8.99984H10.8292Z" fill="currentColor"/>
+      <path d="M31.679 11H4V30H17.8607L19.1725 17H31.6855L31.679 11Z" fill="currentColor"/>
+      <path d="M26.6621 35L23.1605 31.4473L19.6653 35L21.4113 19H26.6653V35H26.6621Z" fill="currentColor"/>
+      <path d="M24.913 35H21.4115L23.1607 33.2236L24.913 35Z" fill="currentColor"/>
+      <path d="M34 19H28.6653V35H36L34 19Z" fill="currentColor"/>
+    </g>
+  </g>
+</svg>

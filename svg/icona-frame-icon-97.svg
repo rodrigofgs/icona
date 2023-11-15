@@ -1,0 +1,13 @@
+<svg width="40" height="40" viewBox="0 0 40 40" fill="none" xmlns="http://www.w3.org/2000/svg" data-seed-icon="true" data-seed-icon-version="0.3.4">
+  <g>
+    <g>
+      <path d="M4 10L20 2L36 10H4Z" fill="currentColor"/>
+      <path d="M9.5 33H6.5L7 16H9L9.5 33Z" fill="currentColor"/>
+      <path d="M14.5 33H17.5L17 16H15L14.5 33Z" fill="currentColor"/>
+      <path d="M25.5 33H22.5L23 16H25L25.5 33Z" fill="currentColor"/>
+      <path d="M30.5 33H33.5L33 16H31L30.5 33Z" fill="currentColor"/>
+      <path d="M37 37V35H3V37H37Z" fill="currentColor"/>
+      <path d="M36 14H4V12H36V14Z" fill="currentColor"/>
+    </g>
+  </g>
+</svg>
